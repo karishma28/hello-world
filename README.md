@@ -1,2 +1,3 @@
 # hello-world
-my fiest gihub
+my firsts github
+  i dnt knw how to use github
